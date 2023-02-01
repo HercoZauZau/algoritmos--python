@@ -1,0 +1,26 @@
+x=int(input('Digite um numero inteiro:'))
+a=x*1
+b=x*2
+c=x*3
+d=x*4
+e=x*5
+f=x*6
+g=x*7
+h=x*8
+i=x*9
+j=x*10
+k=x*11
+l=x*12
+print('Tabuada de {}.'.format(x))
+print('{}*1={}'.format(x,a))
+print('{}*2={}'.format(x,b))
+print('{}*3={}'.format(x,c))
+print('{}*4={}'.format(x,d))
+print('{}*5={}'.format(x,e))
+print('{}*6={}'.format(x,f))
+print('{}*7={}'.format(x,g))
+print('{}*8={}'.format(x,h))
+print('{}*9={}'.format(x,i))
+print('{}*10={}'.format(x,j))
+print('{}*11={}'.format(x,k))
+print('{}*12={}'.format(x,l))

@@ -1,0 +1,5 @@
+x = input('Digite um numero de quatro digitos:').strip()
+print('{} unidades'.format(x[3]))
+print('{} dezenas'.format(x[2]))
+print('{} centenas'.format(x[1]))
+print('{} milhares'.format(x[0]))
