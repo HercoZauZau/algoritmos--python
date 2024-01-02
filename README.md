@@ -1,4 +1,4 @@
-# exercicios-resolvidos--python
+# Algoritmos Python
 Exercícios resolvidos do curso de Python dado pelo professor Gustavo Guanabara no site do Curso em Vídeo .
 
 ## Lista de exercícios resolvidos
