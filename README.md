@@ -1,309 +1,176 @@
-# Algoritmos Python
-Exercícios resolvidos do curso de Python dado pelo professor Gustavo Guanabara no site do Curso em Vídeo .
+# Algoritmos em Python
 
-## Lista de exercícios resolvidos
+Este repositório contém **exercícios resolvidos** do curso de Python ministrado pelo [professor Gustavo Guanabara](https://www.cursoemvideo.com/), no site [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-### Mundo 1
+---
 
-#### Conhecendo a linguagem
+## :dart: Objetivo
 
-#01 - Deixando tudo pronto
+- Consolidar conceitos fundamentais de **Python** através da prática.
+- Aprofundar o aprendizado em estruturas de controle, listas, dicionários, funções e muito mais.
+- Estimular a resolução de problemas reais usando lógica de programação.
 
-#02 - Respondendo ao usuário
+---
 
+## :books: Lista de Exercícios Resolvidos
 
-#### Primeiros passos
+### :star2: Mundo 1 - Fundamentos de Python
 
-#03 - Somando dois números
+#### Conhecendo a Linguagem
+- **#01** - Deixando tudo pronto
+- **#02** - Respondendo ao usuário
 
-#04 - Dissecando uma variável
+#### Primeiros Passos
+- **#03** - Somando dois números
+- **#04** - Dissecando uma variável
 
-
-#### Cálculos e operações
-
-#05 - Antecessor e sucessor
-
-#06 - Dobro, triplo e raiz quadrada
-
-#07 - Média aritmética
-
-#08 - Conversor de medidas
-
-#09 - Tabuada
-
-#010 - Conversor de moedas
-
-#011 - Pintando parede
-
-#012 - Calculando descontos
-
-#013 - Reajuste salarial
-
-#014 - Conversor de temperaturas
-
-#015 - Aluguel de carros
-
+#### Cálculos e Operações
+- **#05** - Antecessor e sucessor
+- **#06** - Dobro, triplo e raiz quadrada
+- **#07** - Média aritmética
+- **#08** - Conversor de medidas
+- **#09** - Tabuada
+- **#10** - Conversor de moedas
+- **#11** - Pintando parede
+- **#12** - Calculando descontos
+- **#13** - Reajuste salarial
+- **#14** - Conversor de temperaturas
+- **#15** - Aluguel de carros
 
 #### Módulos
-
-#016 - Quebrando um número
-
-#017 - Catetos e hipotenusa
-
-#018 - Seno, cosseno e tangente
-
-#019 - Sorteando um item na lista
-
-#020 - Sorteando uma ordem na lista
-
-#021 - Tocando um MP3
-
+- **#16** - Quebrando um número
+- **#17** - Catetos e hipotenusa
+- **#18** - Seno, cosseno e tangente
+- **#19** - Sorteando um item na lista
+- **#20** - Sorteando uma ordem na lista
+- **#21** - Tocando um MP3
 
 #### Strings
+- **#22** - Analisador de textos
+- **#23** - Separando dígitos de um número
+- **#24** - Verificando as primeiras letras de um texto
+- **#25** - Procurando uma string dentro de outra
+- **#26** - Primeira e última ocorrência de uma string
+- **#27** - Primeiro e último nome de uma pessoa
 
-#022 - Analisador de textos
+#### Estruturas Condicionais
+- **#28** - Jogo da Adivinhação v1.0
+- **#29** - Radar eletrônico
+- **#30** - Par ou ímpar?
+- **#31** - Custo da viagem
+- **#32** - Ano bissexto
+- **#33** - Maior e menor valores
+- **#34** - Aumentos múltiplos
+- **#35** - Analisando triângulo v1.0
 
-#023 - Separando dígitos de um número
+---
 
-#024 - Verificando as primeiras letras de um texto
+### :star2: Mundo 2 - Estruturas de Controle
 
-#025 - Procurando uma string dentro de outra
-
-#026 - Primeira e última ocorrência de uma string
-
-#027 - Primeiro e último nome de uma pessoa
-
-
-#### Estruturas condicionais
-
-#028 - Jogo da Adivinhação v1.0
-
-#029 - Radar eletrônico
-
-#030 - Par ou ímpar?
-
-#031 - Custo da viagem
-
-#032 - Ano bissexto
-
-#033 - Maior e menor valores
-
-#034 - Aumentos múltiplos
-
-#035 - Analisando triângulo v1.0
-
-
-### Mundo 2: estruturas de controle
-
-#### Condições em Python (if..elif)
-
-#036 - Aprovando empréstimo
-
-#037 - Conversor de bases numéricas
-
-#038 - Comparando números
-
-#039 - Alistamento militar
-
-#040 - Aquele clássico da média
-
-#041 - Classificando atletas
-
-#042 - Analisando triângulos v2.0
-
-#043 - Índice de Massa Corporal
-
-#044 - Gerenciador de pagamentos
-
-#045 - GAME: Pedra, Papel e Tesoura
-
+#### Condições em Python (if/elif)
+- **#36** - Aprovando empréstimo
+- **#37** - Conversor de bases numéricas
+- **#38** - Comparando números
+- **#39** - Alistamento militar
+- **#40** - Aquele clássico da média
+- **#41** - Classificando atletas
+- **#42** - Analisando triângulos v2.0
+- **#43** - Índice de Massa Corporal (IMC)
+- **#44** - Gerenciador de pagamentos
+- **#45** - GAME: Pedra, Papel e Tesoura
 
 #### Repetições em Python (for)
-
-#046 - Contagem regressiva
-
-#047 - Contagem de pares
-
-#048 - Soma ímpares múltiplos de três
-
-#049 - Tabuada v2.0
-
-#050 - Soma dos pares
-
-#051 - Progressão Aritmética
-
-#052 - Números primos
-
-#053 - Detector de palíndromo
-
-#054 - Grupo da maioridade
-
-#055 - Maior e menor da sequência
-
-#056 - Analisador completo
-
+- **#46** - Contagem regressiva
+- **#47** - Contagem de pares
+- **#48** - Soma de ímpares múltiplos de três
+- **#49** - Tabuada v2.0
+- **#50** - Soma dos pares
+- **#51** - Progressão Aritmética
+- **#52** - Números primos
+- **#53** - Detector de palíndromo
+- **#54** - Grupo da maioridade
+- **#55** - Maior e menor da sequência
+- **#56** - Analisador completo
 
 #### Repetições em Python (while)
+- **#57** - Validação de dados
+- **#58** - Jogo da Adivinhação v2.0
+- **#59** - Criando um menu de opções
+- **#60** - Cálculo do fatorial
+- **#61** - Progressão aritmética v2.0
+- **#62** - Super Progressão Aritmética v3.0
+- **#63** - Sequência de Fibonacci v1.0
+- **#64** - Tratando vários valores v1.0
+- **#65** - Maior e menor valores
+- **#66** - Vários números com flag
+- **#67** - Tabuada v3.0
+- **#68** - Jogo do par ou ímpar
+- **#69** - Análise de dados do grupo
+- **#70** - Estatística de produtos
+- **#71** - Simulador de caixa eletrônico
 
-#057 - Validação de dados
+---
 
-#058 - Jogo da adivinhação v2.0
-
-#059 - Criando um menu de opções
-
-#060 - Cálculo do fatorial
-
-#061 - Progressão aritmética v2.0
-
-#062 - Super Progressão Aritmética v3.0
-
-#063 - Sequência de Fibonacci v1.0
-
-#064 - Tratando vários valores v1.0
-
-#065 - Maior e menor valores
-
-#066 - Vários números com flag
-
-#067 - Tabuada v3.0
-
-#068 - Jogo do par ou ímpar
-
-#069 - Análise de dados do grupo
-
-#070 - Estatística de produtos
-
-#071.2 - Simulador de caixa eletrônico
-
-#071.2.1 - Simulador de caixa eletrônico
-
-
-### Mundo 3: estruturas compostas
+### :star2: Mundo 3 - Estruturas Compostas
 
 #### Tuplas
-
-#072 - Número por extenso
-
-#073 - Tuplas com times de futebol
-
-#074 - Maior e menor valores em tupla
-
-#075 - Análise de dados em uma tupla
-
-#076 - Lista de preços com tupla
-
-#077 - Contando vogais em tupla
-
+- **#72** - Número por extenso
+- **#73** - Tuplas com times de futebol
+- **#74** - Maior e menor valores em tupla
+- **#75** - Análise de dados em uma tupla
+- **#76** - Lista de preços com tupla
+- **#77** - Contando vogais em tupla
 
 #### Listas
-
-#078 - Maior e menor valores na lista
-
-#079 - Valores únicos em uma lista
-
-#080 - Lista ordenada sem repetições
-
-#080.1 - Lista ordenada sem repetições
-
-#081.2 - Lista ordenada sem repetições
-
-#081 - Extraindo dados de uma lista
-
-#082 - Dividindo valores em várias listas
-
-#083 - Validando expressões matemáticas
-
-
-#### Listas (Parte 2)
-
-#084 - Lista composta e análise de dados
-
-#085 - Listas com pares e ímpares
-
-#086 - Matrix em Python
-
-#087 - Mais sobre matriz em Python
-
-#088 - Palpites para a Mega-Sena
-
-#089 - Boletim com listas compostas
-
+- **#78** - Maior e menor valores na lista
+- **#79** - Valores únicos em uma lista
+- **#80** - Lista ordenada sem repetições
+- **#81** - Extraindo dados de uma lista
+- **#82** - Dividindo valores em várias listas
+- **#83** - Validando expressões matemáticas
 
 #### Dicionários
-
-#090 - Dicionário em Python
-
-#091 - Jogo de dados em Python
-
-#092 - Cadastro de trabalhador em Python
-
-#093 - Cadastro de jogador de futebol
-
-#094 - Unindo dicionários e listas
-
-#095 - Aprimorando dicionários
-
+- **#90** - Dicionário em Python
+- **#91** - Jogo de dados em Python
+- **#92** - Cadastro de trabalhador em Python
+- **#93** - Cadastro de jogador de futebol
+- **#94** - Unindo dicionários e listas
+- **#95** - Aprimorando dicionários
 
 #### Funções
+- **#96** - Função que calcula área
+- **#97** - Um print especial
+- **#98** - Função de contador
+- **#99** - Função que descobre o maior
+- **#100** - Funções para sortear e somar
 
-#096 - Função que calcula área
+#### Modularização
+- **#107** - Exercitando módulos em Python
+- **#108** - Formatando moedas em Python
 
-#097 - Um print especial
+---
 
-#098 - Função de contador
+## :computer: Como Executar os Códigos
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/hercozauzau/algoritmos--python
+   ```
+2. Navegue até o diretório do exercício desejado.
+3. Execute o script em Python:
+   ```bash
+   python nome_do_exercicio.py
+   ```
 
-#099 - Função que descobre o maior
+---
 
-#100 - Funções para sortear e somar
+## :star: Referências
 
-#101 - Funções para votação
+- [Curso em Vídeo](https://www.cursoemvideo.com/)
+- [Canal do Gustavo Guanabara no YouTube](https://www.youtube.com/cursoemvideo)
 
-#102 - Função para fatorial
-
-#103 - Ficha do jogador
-
-#104 - Validando entrada de dados em Python
-
-#105 - Analisando e gerando dicionários
-
-#106 - Sistema interativo de ajuda em Python
-
-
-#### Modularização em Python
-
-#107 - Exercitando módulos em Python
-
-#108 - Formatando moedas em Python
-
-#109 - Formatando moedas em Python
-
-#110 - Reduzindo ainda mais seu programa
-
-#111 - Transformando módulos em pacotes
-
-#112 - Entrada de dados monetários
-
-
-#### Tratamento de erros em Python
-
-#113 - Funções aprofundadas em Python
-
-#114 - Site está acessível?
-
-#115a - Criando um menu em Python
-
-#115b - Criando um menu em Python
-
-#115c - Finalizando o projeto
-
-##
-
-<div align=center>
-  <table>
-    <tr>
-      <td>
-        <a href='https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-'><img src='https://user-images.githubusercontent.com/51168329/156938222-104f3366-b2a7-4f9a-a8dc-685fee2038e7.png'></a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-">
+    <img src="https://user-images.githubusercontent.com/51168329/156938222-104f3366-b2a7-4f9a-a8dc-685fee2038e7.png" alt="Curso em Vídeo" width="300">
+  </a>
 </div>
+
